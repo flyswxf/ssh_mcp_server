@@ -1,0 +1,24 @@
+.gitignore
+  h_a63e81fbdf2139 1-47
+README.md
+  h_a63e81fbdf2139 1-205
+mcp_config_example.json
+  h_a63e81fbdf2139 1-14
+requirements.txt
+  h_a63e81fbdf2139 1-4
+server.py
+  h_a63e81fbdf2139 1-313
+test_server.py
+  h_a63e81fbdf2139 1-136
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5+huawei.3",
+  "base_commit_sha": "4b12f89a637ab8074bcb31b02d4974d5521b448b",
+  "prompts": {},
+  "humans": {
+    "h_a63e81fbdf2139": {
+      "author": "w50064021 <wangyufei67@huawei.com>"
+    }
+  }
+}
