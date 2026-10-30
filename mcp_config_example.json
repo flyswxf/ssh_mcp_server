@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "ssh": {
+      "command": "python",
+      "args": ["D:/code/Obsidian-main/ssh_mcp_server/server.py"],
+      "env": {
+        "SSH_HOST": "100.95.144.153",
+        "SSH_USER": "root",
+        "SSH_PORT": "22",
+        "SSH_KEY_PATH": "C:/Users/w50064021/.ssh/id_rsa"
+      }
+    }
+  }
+}
